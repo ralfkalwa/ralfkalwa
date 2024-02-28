@@ -13,7 +13,7 @@
 
 -->
 
-- 🔭 I’m currently training Computer Science Experts with Subject Area: Software Development and System Integration
+- 🔭 I'm qualifying Computer Science Experts with Subject Area: Software Development and System Integration
 
 
 
